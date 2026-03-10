@@ -1,0 +1,36 @@
+fecha,producto,cantidad,precio_unitario
+2026-02-01,Pasta Alfredo,3,25000
+2026-02-01,Lasagna,2,28000
+2026-02-02,Pasta Alfredo,1,25000
+2026-02-02,Ravioli,4,26000
+2026-02-03,Lasagna,1,28000
+2026-02-03,Pasta Alfredo,2,25000
+2026-02-03,Ravioli,3,26000
+2026-02-04,Lasagna,2,28000
+2026-02-04,Pasta Alfredo,1,25000
+2026-02-04,Ravioli,2,26000
+2026-02-05,Pasta Alfredo,4,25000
+2026-02-05,Lasagna,1,28000
+2026-02-05,Ravioli,3,26000
+2026-02-06,Pasta Alfredo,2,25000
+2026-02-06,Lasagna,3,28000
+2026-02-06,Ravioli,1,26000
+2026-02-07,Pasta Alfredo,3,25000
+2026-02-07,Ravioli,2,26000
+2026-02-07,Lasagna,1,28000
+2026-02-08,Pasta Alfredo,2,25000
+2026-02-08,Lasagna,2,28000
+2026-02-08,Ravioli,4,26000
+2026-02-09,Pasta Alfredo,1,25000
+2026-02-09,Lasagna,3,28000
+2026-02-09,Ravioli,2,26000
+2026-02-10,Pasta Alfredo,3,25000
+2026-02-10,Ravioli,3,26000
+2026-02-10,Lasagna,2,28000
+2026-02-11,Pasta Alfredo,2,25000
+2026-02-11,Lasagna,1,28000
+2026-02-11,Ravioli,4,26000
+2026-02-12,Pasta Alfredo,3,25000
+2026-02-12,Lasagna,2,28000
+2026-02-12,Ravioli,1,26000
+2026-02-13,Pasta Alfredo,2,25000
